@@ -1,0 +1,14 @@
+
+
+Basics about Algorithm:
+
+Low bound theory:
+    Define how much time complexity at least the program would consume。
+    Given L(n) as time complexity for a program, if exists constant C, N where L(n) >= C*g(n) for n > N, then lower bound theory is g(n)
+    
+Upper bound theory:
+    Similar to lower bound, if exists constant C, N where L(n) <= C*g(n) for n > N, then lower bound theory is g(n)
+    
+    
+Space complexity:
+    Memory consumed for the program.
